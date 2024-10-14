@@ -4457,7 +4457,7 @@ blockquote cite {
 
 @media (min-width: 992px) {
 	.footer-classic .footer-inner-1 {
-		padding: 90px 0 70px;
+		padding: 20px 0 20px;
 	}
 	.footer-classic * + .contact-list {
 		margin-top: 22px;
@@ -4490,7 +4490,7 @@ blockquote cite {
 
 .contact-list + a {
 	margin-top: 10px;
-	margin-left: 24px;
+	/* margin-left: 24px; */
 }
 
 .footer-light .footer-inner-1 {
