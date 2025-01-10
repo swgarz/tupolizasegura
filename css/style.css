@@ -794,6 +794,7 @@ a[href*='tel'], a[href*='mailto'] {
 
 .box-icon-2 .text {
 	font-size: 18px;
+	text-align: justify;
 }
 
 .box-icon-2 * + .title {
